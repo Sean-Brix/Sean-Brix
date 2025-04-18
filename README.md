@@ -1,5 +1,3 @@
-# Hey there :wave:
-
 <img src="https://raw.githubusercontent.com/Sean-Brix/Sean-Brix/master/resources/banner.jpg" alt="Hello world">
 
 <p align="center"> 

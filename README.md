@@ -12,7 +12,7 @@ Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas in
 I'm always curious about how things work under the hood, and I love learning new tools, patterns, and best practices. Whether it's writing efficient APIs or creating pixel-perfect designs, I care about both code quality and user experience.
 
 When I'm not coding, you'll probably find me sketching ideas for new projects, watching dev talks, or hacking on something cool just for fun.
-
+<p><br /></p>
 
 ## Skills & Technologies 🛠️
 
@@ -27,6 +27,7 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 40px" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 0 40px" />
   <img alt="CustomTkinter" src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 0 40px" />
+  <br />
 </p>
 
 ## Current Focus 🎯
@@ -35,6 +36,16 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
 - Learning cloud technologies
 - Contributing to open source
 - Looking into NextJS Framework
+
+
+<p align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Sean-Brix&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sean-Brix&theme=radical" alt="GitHub Activity Graph" />
+  <br />
+</p>
 
 ## Let's Connect! 🌐
 <p align="center" style="margin: 10px 30px;">

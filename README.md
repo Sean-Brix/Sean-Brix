@@ -7,7 +7,7 @@
 
 ## About me 💻
 
-Hi! I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas into real-world applications. I specialize in building clean, responsive web apps using React, Node.js, and MongoDB. I'm a big fan of writing scalable backend logic and crafting intuitive UI experiences.
+Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas into real-world applications. I specialize in building clean, responsive web apps using React, Node.js, and MongoDB. I'm a big fan of writing scalable backend logic and crafting intuitive UI experiences.
 
 I'm always curious about how things work under the hood, and I love learning new tools, patterns, and best practices. Whether it's writing efficient APIs or creating pixel-perfect designs, I care about both code quality and user experience.
 

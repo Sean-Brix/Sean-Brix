@@ -1,22 +1,14 @@
-<h1 align="center">Hey, I'm KC Sean 👋</h1>
-<p align="center">🚀 Full-stack Developer | 💡 Problem Solver | 🌍 Based in [Your City]</p>
+# Hey there :wave:
 
----
+<img src="https://raw.githubusercontent.com/Sean-Brix/Sean-Brix/master/resources/banner.png" alt="Hello world">
 
-### 💻 About Me
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Sean-Brix/count.svg" />
+</p>
 
-- 🛠 I’m currently working on: **Node.js + React projects**
-- 🌱 Learning more about: **TypeScript, MongoDB, and backend scaling**
-- 🎯 Goals for 2025: Build an open-source project, contribute to community projects
-- 🧠 Fun fact: I once built a complete web app in under 48 hours 🕒
+## About me
 
----
+Hi there 👋. I’m Kc Sean Brix D. Calinao, aspiring to be a full stack Web Developer with a keen eye for quality and a deep understanding of the web ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
 
-### ⚙️ Tech Stack
-
-```js
-{
-  "Frontend": ["React", "HTML", "CSS", "Tailwind", "EJS"],
-  "Backend": ["Node.js", "Express", "MongoDB", "Mongoose"],
-  "Tools": ["Git", "Postman", "Vite", "VS Code", "Figma"]
-}
+## Get in touch :coffee:

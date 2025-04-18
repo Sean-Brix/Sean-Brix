@@ -40,9 +40,9 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
 
 <p align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Sean-Brix&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Sean-Brix&theme=gruvbox" alt="GitHub Streak" />
   <br />
 </p>
 
@@ -61,6 +61,3 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-

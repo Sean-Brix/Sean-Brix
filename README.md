@@ -16,14 +16,14 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
 
 ## Skills & Technologies 🛠️
 
-<p align="center" style="margin: 10px 0;">
+<p align="center" style="margin: 30px 0;">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin: 0 10px" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="margin: 0 10px" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="margin: 0 10px" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="margin: 0 10px" />
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" style="margin: 0 10px" />
 </p>
-<p align="center" style="margin: 10px 0;">
+<p align="center" style="margin: 30px 0;">
   <img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white" style="margin: 0 10px" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 0 10px" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 10px" />
@@ -39,7 +39,7 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
 - Looking into NextJS Framework
 
 ## Let's Connect! 🌐
-<p align="center">
+<p align="center" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/Sean-Brix/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

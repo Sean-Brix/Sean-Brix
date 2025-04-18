@@ -43,7 +43,6 @@ When I'm not coding, you'll probably find me sketching ideas for new projects, w
   <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Sean-Brix&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sean-Brix&theme=radical" alt="GitHub Activity Graph" />
   <br />
 </p>
 

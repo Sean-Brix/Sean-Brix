@@ -11,7 +11,6 @@ Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas in
 
 I'm always curious about how things work under the hood, and I love learning new tools, patterns, and best practices. Whether it's writing efficient APIs or creating pixel-perfect designs, I care about both code quality and user experience.
 
-When I'm not coding, you'll probably find me sketching ideas for new projects, watching dev talks, or hacking on something cool just for fun.
 <p><br /></p>
 
 ## Skills & Technologies 🛠️

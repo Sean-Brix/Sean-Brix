@@ -41,7 +41,6 @@ I'm always curious about how things work under the hood, and I love learning new
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=gruvbox" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Sean-Brix&theme=gruvbox" alt="GitHub Streak" />
   <br />
 </p>
 

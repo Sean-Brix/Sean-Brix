@@ -30,11 +30,9 @@ Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas in
 
 
 ## Current Focus 🎯
-- Learning more about web architecture
 - Diving into Web Cyber Security concepts
 - Learning more Cloud technologies
 - Looking forward to NextJS Framework
-- Creating cleaner state management
 - Machine Learning and AI integration
 
 

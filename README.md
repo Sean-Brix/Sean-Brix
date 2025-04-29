@@ -2,7 +2,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Sean-Brix/count.svg" />
 </p>
-
 ## About me 💻
 
 Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas into real-world applications. I love building clean, responsive Web and Desktop apps.

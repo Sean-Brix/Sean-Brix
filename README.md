@@ -27,12 +27,6 @@ Hi! 👋 I'm Kc Sean Brix — a full-stack developer who enjoys turning ideas in
   <br /><br />
 </p>
 
-
-## Current Focus 🎯
-- Diving into Web Cyber Security concepts
-- Learning more Cloud technologies
-
-
 <p align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=dark" alt="GitHub Stats" />

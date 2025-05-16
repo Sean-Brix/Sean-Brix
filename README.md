@@ -9,6 +9,8 @@
 
 <p align="center" style="margin: 10px 30px;">
   
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="margin: 0 40px" />
+  <img alt="Makefile" src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnubash&logoColor=white" style="margin: 0 40px" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="margin: 0 40px" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="margin: 0 40px" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="margin: 0 40px" />
@@ -23,6 +25,7 @@
   <img alt="CustomTkinter" src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 0 40px" />
   <br /><br />
 </p>
+
 
 <p align="center">
   <br />

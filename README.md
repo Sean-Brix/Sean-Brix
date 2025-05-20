@@ -29,7 +29,6 @@
 
 <p align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=dark" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=dark" alt="Top Languages" />
 
   <br />

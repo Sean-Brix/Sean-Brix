@@ -5,6 +5,14 @@
 
 <p><br /></p>
 
+<p align="center">
+  <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=dark" alt="Top Languages" />
+
+  <br />
+</p>
+
+
 ## Skills & Technologies 🛠️
 
 <p align="center" style="margin: 10px 30px;">
@@ -24,12 +32,4 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 0 40px" />
   <img alt="CustomTkinter" src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 0 40px" />
   <br /><br />
-</p>
-
-
-<p align="center">
-  <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=dark" alt="Top Languages" />
-
-  <br />
 </p>

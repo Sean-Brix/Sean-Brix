@@ -1,10 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sean-Brix/count.svg" />
-</p>
-
-<p><br /></p>
-
 <p align="center">
   <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=dark" alt="Top Languages" />

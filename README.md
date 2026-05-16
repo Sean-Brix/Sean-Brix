@@ -107,33 +107,6 @@ Key responsibilities and learning areas:
 
 ---
 
-## Professional Strengths
-
-- Requirement gathering and client communication
-- System planning and workflow analysis
-- Database design and schema planning
-- Full-stack implementation
-- API development and integration
-- Troubleshooting and deployment
-- Cost-aware technical decision-making
-- Adaptability across unfamiliar project domains
-- Documentation, wireframing, and technical explanation
-- Mentorship and peer support
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Brix&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Brix&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Connect With Me
 
 - GitHub: [github.com/Sean-Brix](https://github.com/Sean-Brix)

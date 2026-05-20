@@ -1,11 +1,3 @@
-# Hi, I'm KC Sean Brix D. Calinao 👋
-
-**Full-Stack Software Developer | Website Developer | Systems Developer**
-
-I'm a software developer from Cavite, Philippines, focused on building practical, real-world systems for students, SMEs, business clients, and research-based projects. I work across frontend, backend, databases, APIs, IoT integrations, computer vision workflows, and automation-focused software.
-
-I enjoy turning unclear requirements into working systems — from planning the data flow and database schema, to building the interface, backend logic, deployment, testing, and final client handoff.
-
 ---
 
 ## About Me
@@ -18,7 +10,7 @@ I enjoy turning unclear requirements into working systems — from planning the 
 
 ---
 
-## Tech Stack
+## Tech Stack (but not limited to)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
